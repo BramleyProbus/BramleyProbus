@@ -5,6 +5,8 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
+# Why doesn't the urlimg get used properly in the build
+
 url: 		'http://localhost:4000'
 baseurl: 	''
 urlimg: 	'http://localhost:4000/bramleyProbus/images/'
