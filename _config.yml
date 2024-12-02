@@ -21,7 +21,7 @@ credits: '<p>Created with &hearts; by Joe with <a href="http://jekyllrb.com/" ta
 
 # Main author of the website
 # See > authors.yml
-author: Joe
+author: Joe OConnell
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -40,7 +40,7 @@ author: Joe
 #
 #urlimg: 'https://bramleyprobus.github.io/bramleyprobus/images/'
 
-# Temp for debugging image issue
+# Temp for debugging image issue- -which is extremely frustrating
 # !!
 # !!
 url: 		'https://bramleyprobus.github.io'
