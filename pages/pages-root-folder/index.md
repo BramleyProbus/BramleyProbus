@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: probus_icon_small.jpg
   text: 'Bramley Probus .....'
 widget2:
   title: "Why use this theme?"
