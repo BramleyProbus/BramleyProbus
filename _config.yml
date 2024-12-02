@@ -42,7 +42,6 @@ author: Joe OConnell
 
 # Temp for debugging image issue- -which is extremely frustrating
 # !!
-# !!
 url: 		'https://bramleyprobus.github.io'
 baseurl: 	'/bramleyprobus'
 urlimg: 	'https://bramleyprobus.github.io/bramleyprobus/images/'
